@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&animation=fadeIn&fontAlignY=38&desc=Thank%20you%20for%20coming%20here%20!%20&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20&animation=fadeIn&fontAlignY=38&desc=Thank%20you%20for%20coming%20here%20!%20&descAlignY=51&descAlign=62"/>
 </p>
 
 <p>
@@ -7,7 +7,7 @@
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+sukyeong+Oh" alt="Typing SVG" /></a>	
 </p>
 
-## 🙋🏻‍♀ Introduce 🙋🏻‍♀
+## 🙋🏻‍♀ Introduce 
 - Birth: 2002/12/11, Incheon
 - Club: likelion 12th Baby Lion
 - Part: Frontend/Game Developer (Design is also available)
@@ -15,7 +15,7 @@
 - Department: Software Engineering & Digital Content (Double Major)
 <br>
 
-## 📚 Stack 📚
+## 📚 Stack
 <p> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
@@ -53,13 +53,13 @@
 </p>	
 <br>
 
-## 📈 Stats 📈
+## 📈 Stats
 <p>&nbsp;
   <img align="legt" src="https://github-readme-stats.vercel.app/api?username=sukyeong2002&show_icons=true&locale=en" alt="sukyeong2002" />
 </p>
 <br>
 
-## 💬 Contact / Communication 🗨
+## 💬 Contact / Communication
 - <a href="mailto:osukyeong0109@gmail.co.kr">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
