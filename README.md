@@ -3,8 +3,9 @@
 </p>
 
 <p>
-    <a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+sukyeong+Oh" alt="Typing SVG" /></a>	
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00000069&repeat=false&random=false&width=500&lines=I+am+Sukyeong+Oh%2C" alt="Typing SVG" /></a>
+	<br>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00000069&repeat=false&random=false&width=500&lines=aspiring+to+leave+traces%2C+share%2C+and+grow+together" alt="Typing SVG" /></a>
 </p>
 
 ## 🙋🏻‍♀ Introduce 
