@@ -2,14 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Thank%20you%20&animation=fadeIn&fontAlignY=38&desc=for%20coming%20here%20!%20&descAlignY=51&descAlign=70"/>
 </p>
 
-<p>
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00000069&random=false&width=500&lines=I+am+Sukyeong+Oh%2C" alt="Typing SVG" /></a>
-	<br>
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00000069&random=false&width=500&lines=aspiring+to+leave+traces%2C+share%2C+and+grow+together" alt="Typing SVG" /></a>
-</p>
-
 ## 🙋🏻‍♀ Introduce 
-- Birth: 2002/12/11, Incheon
+- Name: Sukyeong Oh
 - Club: likelion 12th Baby Lion
 - Part: Frontend/Game Developer (Design is also available)
 - Certification: Engineer Information Processing (to be obtained..)
