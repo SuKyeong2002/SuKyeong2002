@@ -7,7 +7,7 @@
 - Club: likelion 12th Baby Lion
 - Part: Frontend/Game Developer 
 - Certification: Engineer Information Processing 
-- Department: Software Engineering & Digital Content (Double Major)
+- Department: Software Engineering & Digital Content 
 <br>
 
 ## 📚 Stack
