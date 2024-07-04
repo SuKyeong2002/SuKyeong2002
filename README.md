@@ -5,8 +5,8 @@
 ## 🙋🏻‍♀ Introduce 
 - Name: Sukyeong Oh
 - Club: likelion 12th Baby Lion
-- Part: Frontend/Game Developer (Design is also available)
-- Certification: Engineer Information Processing (to be obtained..)
+- Part: Frontend/Game Developer 
+- Certification: Engineer Information Processing 
 - Department: Software Engineering & Digital Content (Double Major)
 <br>
 
