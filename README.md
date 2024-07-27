@@ -4,7 +4,6 @@
 
 ## 🙋🏻‍♀ Introduce 
 - Name: Sukyeong Oh
-- Club: likelion 12th Baby Lion
 - Part: Frontend Developer 
 - Certification: Engineer Information Processing 
 - Department: Software Engineering & Digital Content 
@@ -52,6 +51,3 @@
 - <a href="https://www.notion.so/invite/3004e5d95e125332f2b9d79ed366b35b27fc31f6">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
- - <a href="https://www.instagram.com/oungskyoung?igsh=cWN1bHpwZWR6bWlq">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/>
-   </a>
