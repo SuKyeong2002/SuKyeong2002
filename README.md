@@ -5,7 +5,7 @@
 ## 🙋🏻‍♀ Introduce 
 - Name: Sukyeong Oh
 - Part: Frontend Developer 
-- Certification: Engineer Information Processing 
+- Certification: Engineer Information Processing, SQLD
 - Department: Software Engineering & Digital Content 
 <br>
 
