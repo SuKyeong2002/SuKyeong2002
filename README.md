@@ -4,8 +4,8 @@
 
 ## 🙋🏻‍♀ Introduce 
 - Part: Frontend Developer 
+- Department: Software Engineering, Digital Content
 - Certification: Engineer Information Processing, SQLD (Expected acquisition this year) 
-- Department: Software Engineering, Digital Content 
 <br>
 
 ## 📚 Stack
