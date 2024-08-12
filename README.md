@@ -1,12 +1,7 @@
-<p align='left'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Thank%20you%20&animation=fadeIn&fontAlignY=38&desc=for%20coming%20here%20!%20&descAlignY=51&descAlign=70"/>
-</p>
-
 ## 🙋🏻‍♀ Introduce 
 - Part: Frontend Developer 
 - Department: Software Engineering, Digital Content
 - Certification: Engineer Information Processing, SQLD (Expected acquisition this year) 
-<br>
 
 ## 📚 Stack
 <p>
@@ -24,7 +19,6 @@
 <p>&nbsp;
   <img align="legt" src="https://github-readme-stats.vercel.app/api?username=sukyeong2002&show_icons=true&theme=radical&locale=en" alt="sukyeong2002" />
 </p>
-<br>
 
 ## 💬 Contact / Communication
 - <a href="mailto:osukyeong0109@gmail.co.kr">
