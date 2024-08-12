@@ -22,7 +22,7 @@
 
 ## 📈 Stats
 <p>&nbsp;
-  <img align="legt" src="https://github-readme-stats.vercel.app/api?username=sukyeong2002&show_icons=true&locale=en" alt="sukyeong2002" />
+  <img align="legt" src="https://github-readme-stats.vercel.app/api?username=sukyeong2002&show_icons=true&theme=radical&locale=en" alt="sukyeong2002" />
 </p>
 <br>
 
