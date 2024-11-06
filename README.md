@@ -1,7 +1,6 @@
 ## 🙋🏻‍♀ Introduce 
 - Part: Frontend Developer 
 - Department: Software Engineering, Digital Content
-- Certification: SQLD 
 
 ## 📚 Stack
 <p>
