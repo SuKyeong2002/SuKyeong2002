@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sukyeong2002&show_icons=true&theme=radical&locale=en" alt="sukyeong2002" />
 </p>
 
-## 💬 Contact / Communication
+## 💬 Contact 
 - <a href="mailto:osukyeong0109@gmail.co.kr">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
