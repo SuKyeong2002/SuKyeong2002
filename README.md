@@ -24,7 +24,7 @@
 - <a href="mailto:osukyeong0109@gmail.co.kr">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-- <a href="https://m.blog.naver.com/osukyeong0109">
+- <a href="https://velog.io/@oungskyoung/posts">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 - <a href="https://www.notion.so/e2a3a54039954145945142c59fd2362f?v=634fb5086e824ecba430165a817934e7">
