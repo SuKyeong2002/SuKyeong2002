@@ -16,9 +16,8 @@
 <br />
 
 ## 📈 Stats
-<p>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=sukyeong2002&show_icons=true&theme=radical&locale=en" alt="sukyeong2002" />
-</p>
+![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuKyeong2002&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osuykyeong)](https://solved.ac/osuykyeong/)
 
 ## 💬 Contact 
 - <a href="mailto:osukyeong0109@gmail.co.kr">
