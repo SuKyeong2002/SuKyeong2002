@@ -19,8 +19,6 @@
 <p>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=sukyeong2002&show_icons=true&theme=radical&locale=en" alt="sukyeong2002" />
 </p>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=osukyeong)](https://solved.ac/osukyeong)
 
 ## 💬 Contact 
 - <a href="mailto:osukyeong0109@gmail.co.kr">
