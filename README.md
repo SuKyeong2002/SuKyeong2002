@@ -1,8 +1,8 @@
 <div align="center">
 
 ## 🙋🏻‍♀ Introduce  
-**Part:** Frontend Developer  
-**Department:** Software Engineering, Digital Content  
+*Frontend Developer* <br/>
+*Software Engineering* & *Digital Content*
 
 ---
 
