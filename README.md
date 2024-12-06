@@ -1,16 +1,31 @@
 <div align="center">
 	
 ## 📚 Stack  
-<p>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/React-61DBFB?style=flat&logo=React&logoColor=white" />
-	<img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white" />
-</p>
+ <img src="https://skillicons.dev/icons?i=figma,styledcomponents,js,ts&perline="/><br/>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,react,vite,vercel&titles=true"/>
 
-## 📈 Stats  
+## 🏆 Awards
+<details>
+  <summary>Open this Toogle :)</summary>
+
+| Award 	| Date                         	     | Contest                  | Repository			|
+|-------------|---------------------------------   |-----------------------	|-----------------------	|
+| 🥉 **동상(3위)** | 2024.11.14 | 2024 성공회대 제15회 IT 경진대회 | [내 손 안의 작은 친구, Mood Friend 🐾](https://github.com/LikeLion-12th-SKHU/LikeLion-12th-TEAM02-FE) |
+
+</details>
+
+## 🏆 Projects
+<details>
+  <summary>Open this Toogle :)</summary>
+
+| Name 	| Duration                         	     | Description                  | Repository			|
+|-------------|---------------------------------   |-----------------------	|-----------------------	|
+| **ProLink** | 2024.11.11 ~ 2024.11.23 | 프로젝트 및 팀원 관리 웹 서비스 | [효율적인 업무 분담을 지원하는 올인원 플랫폼 🔗](https://github.com/2024GanzithonPYTHON/14_Ganzi_Frontend) |
+| **MOYEO** | 2024.10.26 ~ 2024.11.03 | AI 웹 게임 서비스 | [누구나 함께 즐길 수 있는 게임 🎮](https://github.com/moyeothon/2024_MOYEOYHON_12team_FE) |
+
+</details>
+
+## 📈 Stats
 <a href="https://solved.ac/osukyeong">
 	<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=osukyeong" alt="Solved.ac 프로필" />
 </a>  
