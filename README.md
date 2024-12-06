@@ -4,8 +4,6 @@
 *Frontend Developer* <br/>
 *Software Engineering* & *Digital Content*
 
-<br/>
-
 ## 📚 Stack  
 <p>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -16,15 +14,11 @@
 	<img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white" />
 </p>
 
-<br/>
-
 ## 📈 Stats  
 <a href="https://solved.ac/osukyeong">
 	<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=osukyeong" alt="Solved.ac 프로필" />
 </a>  
 <img src="https://github-readme-stats.vercel.app/api?username=SuKyeong2002&show_icons=true&theme=tokyonight" alt="SuKyeong2002" />
-
-<br/>
 
 ## 💬 Contact  
 <p>
@@ -39,8 +33,6 @@
 	</a>
 </p>
 
-<br/>
-
-## ✨ GitHub Profile 3D Contrib
+## ✨ 3D Contrib
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
