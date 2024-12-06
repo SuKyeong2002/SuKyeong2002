@@ -14,7 +14,7 @@
 
 </details>
 
-## 🏆 Projects
+## 🤝 Projects
 <details>
   <summary>Open this Toogle :)</summary>
 
