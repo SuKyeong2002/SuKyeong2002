@@ -4,7 +4,7 @@
 *Frontend Developer* <br/>
 *Software Engineering* & *Digital Content*
 
----
+<br/>
 
 ## 📚 Stack  
 <p>
@@ -16,7 +16,7 @@
 	<img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white" />
 </p>
 
----
+<br/>
 
 ## 📈 Stats  
 <a href="https://solved.ac/osukyeong">
@@ -24,7 +24,7 @@
 </a>  
 <img src="https://github-readme-stats.vercel.app/api?username=SuKyeong2002&show_icons=true&theme=tokyonight" alt="SuKyeong2002" />
 
----
+<br/>
 
 ## 💬 Contact  
 <p>
@@ -38,5 +38,3 @@
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 </p>
-
-</div>
