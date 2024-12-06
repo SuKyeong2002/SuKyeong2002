@@ -1,6 +1,6 @@
 <div align="center">
 	
-## 📚 Stack  
+## 📚 Stacks  
  <img src="https://skillicons.dev/icons?i=figma,styledcomponents,js,ts&perline="/><br/>
  <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,react,vite,vercel&titles=true"/>
 
