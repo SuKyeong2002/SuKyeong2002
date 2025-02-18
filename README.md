@@ -20,7 +20,7 @@
 
 | Name 	| Duration                         	     | Description                  | Repository			|
 |-------------|---------------------------------   |-----------------------	|-----------------------	|
-| **오늘의한문장** | 2025.01.21 ~ 2025.02.23 | 책 명언 기록 및 공유 앱 서비스 | [책의 명언을 기록하고 공유하는 감성적인 플랫폼 💌](https://github.com/today-sentence/today-sentence-front) |
+| **오늘의한문장** | 2025.01.21 ~ 2025.02.23 | 책 명언 기록 및 공유 앱 서비스 | [책 명언을 기록하고 공유하는 감성 플랫폼 💌](https://github.com/today-sentence/today-sentence-front) |
 | **ProLink** | 2024.11.11 ~ 2024.11.23 | 프로젝트와 팀원 관리 웹 서비스 | [효율적인 업무 분담을 지원하는 올인원 플랫폼 🔗](https://github.com/2024GanzithonPYTHON/14_Ganzi_Frontend) |
 | **MOYEO** | 2024.10.26 ~ 2024.11.03 | AI 웹 게임 서비스 | [누구나 함께 즐길 수 있는 게임 🎮](https://github.com/moyeothon/2024_MOYEOYHON_12team_FE) |
 
