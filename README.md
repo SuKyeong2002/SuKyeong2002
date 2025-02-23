@@ -31,5 +31,9 @@
 <a href="https://solved.ac/osukyeong">
 	<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=osukyeong" alt="Solved.ac 프로필" />
 </a>  
+<br />
+
+[💻 My Daily Study](https://github.com/SuKyeong2002/Algorithm)
+<br />
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
