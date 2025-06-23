@@ -27,7 +27,7 @@
 </details>
 
 ## 📈 Stats
-[My Study](https://github.com/SuKyeong2002/Algorithm) & [Group Study](https://github.com/algo-study-java)
+[My Study](https://github.com/SuKyeong2002/Algorithm) & [Group Study](https://github.com/algo-study-java/algorithm-study)
 <br />
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
