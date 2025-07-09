@@ -6,7 +6,7 @@
 
 ## 🏆 Awards
 <details>
-  <summary>Open this Toogle :)</summary>
+  <summary>Open this Toogle !</summary>
 
 | Award 	| Date                         	     | Contest                  | Repository			|
 |-------------|---------------------------------   |-----------------------	|-----------------------	|
@@ -16,7 +16,7 @@
 
 ## 🤝 Projects
 <details>
-  <summary>Open this Toogle :)</summary>
+  <summary>Open this Toogle !</summary>
 
 | Name 	| Duration                         	     | Description                  | Repository			|
 |-------------|---------------------------------   |-----------------------	|-----------------------	|
