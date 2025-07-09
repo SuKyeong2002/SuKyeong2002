@@ -36,4 +36,8 @@
 | **Group Study** | 2025.06.05 ~ | 매주 3문제씩 풀고 각자 풀이 설명  | [3명이서 함께하는 알고리즘 스터디](https://github.com/algo-study-java/algorithm-study) |
 <br />
 
+![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
+
+</details>
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
