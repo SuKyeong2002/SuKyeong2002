@@ -12,6 +12,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - with:
+          user_name: SuKyeong2002
+          svg_path: ./profile-3d-contrib/profile-3d-full.svg
+          animation: true
+          chart: true
+          color: "rainbow"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
