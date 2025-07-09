@@ -34,10 +34,7 @@
 |-------------|---------------------------------   |-----------------------	|-----------------------	|
 | **My Study** | 2024.05.28 ~  | 시간 날 때 풀고 노션에 오답 정리 | [혼자서 하는 알고리즘 공부](https://github.com/SuKyeong2002/Algorithm) |
 | **Group Study** | 2025.06.05 ~ | 매주 3문제씩 풀고 각자 풀이 설명  | [3명이서 함께하는 알고리즘 스터디](https://github.com/algo-study-java/algorithm-study) |
-<br />
-
-![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
-
 </details>
+<br />
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
