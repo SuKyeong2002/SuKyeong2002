@@ -41,6 +41,7 @@
 | **Prolink** | 2024.11.11 ~ 2024.11.23 | [웹] 프로젝트와 팀원 관리 | [효율적인 업무 분담을 지원하는 올인원 플랫폼 🔗](https://github.com/2024GanzithonPYTHON/14_Ganzi_Frontend) |
 | **Moyeo** | 2024.10.26 ~ 2024.11.03 | [웹] AI 게임 | [누구나 함께 즐길 수 있는 게임 🎮](https://github.com/moyeothon/2024_MOYEOYHON_12team_FE) |
 | **Mood Friend** | 2024.05.09 ~ 2024.09.27 | [웹앱] AI 감정 챗봇 | [내 손 안의 작은 친구, Mood Friend 🐾](https://github.com/LikeLion-12th-SKHU/LikeLion-12th-TEAM02-FE) |
+| **ZombiLand3D** | 2024.03.04 ~ 2024.06.18 |  [웹게임] 3D 좀비 슈팅 게임 | [C# 기반 Unity 엔진 게임 🧟](https://github.com/SuKyeong2002/ZombiLand3D) |
 
 </details>
 
