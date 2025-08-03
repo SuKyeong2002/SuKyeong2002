@@ -1,8 +1,34 @@
 <div align="center">
 	
 ## 📚 Stacks  
- <img src="https://skillicons.dev/icons?i=figma,styledcomponents,js,ts&perline="/><br/>
- <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,react,vite,vercel&titles=true"/>
+
+<h3>Main</h3>
+
+<!-- 디자인 & 언어 -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,js,ts&theme=light" />
+</p>
+
+<!-- 프론트엔드 프레임워크 -->
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,vercel&titles=true" />
+</p>
+
+
+<h3>Learning</h3>
+
+<!-- 기타 언어 & 플랫폼 -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,dart&theme=light" />
+</p>
+
+
+<!-- 백엔드 언어 & 프레임워크 -->
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,mysql&titles=true" />
+</p>
+
+
 
 ## 🏆 Awards
 <details>
