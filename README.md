@@ -35,11 +35,12 @@
 
 | Name 	| Duration                         	     | Description                  | Repository			|
 |-------------|---------------------------------   |-----------------------	|-----------------------	|
-| **Synce** | 2025.05.27 ~ | [앱] 시술·수술 후 케어 | [의료진이 환자의 회복을 돕는 의료 플랫폼 🏥](https://github.com/MEDILUX-SYNCE/SYNCE-FE-APP) |
-| **HelloWorld** | 2025.04.29 ~ | [엡] 외국인 노동자를 위한 지원센터 | [모든 외국인 노동자의 AI Contact Center 🤖](https://github.com/HelloWorld-AICC/HelloWorld-Android) |
-| **오늘의 한문장** | 2025.01.21 ~ 2025.04.26 | [앱] 책 명언 기록 및 공유 | [책 명언을 기록하며 소통하는 감성 플랫폼 📙](https://github.com/SuKyeong2002/today-sentence-front) |
-| **Prolink** | 2024.11.11 ~ 2024.11.23 | [웹] 프로젝트와 팀원 관리 | [효율적인 업무 분담을 지원하는 올인원 플랫폼 🔗](https://github.com/2024GanzithonPYTHON/14_Ganzi_Frontend) |
-| **Mood Friend** | 2024.05.09 ~ 2024.09.27 | [웹앱] AI 감정 챗봇 | [내 손 안의 작은 친구, Mood Friend 🐾](https://github.com/LikeLion-12th-SKHU/LikeLion-12th-TEAM02-FE) |
+| **내일뭐입지** | 2025.07.14 ~ 2025.07.25 | [데스크탑 애플리케이션] 옷장 관리 및 AI 코디 추천 | [java, javafx 기반 디지털화한 옷장 및 코디 관리 👕 ](https://github.com/sam-yuk-gu/what2wear) |
+| **Synce** | 2025.05.27 ~ | [앱] 시술·수술 후 케어 | [react-native 기반 의료진이 환자의 회복을 돕는 의료 플랫폼 🏥](https://github.com/MEDILUX-SYNCE/SYNCE-FE-APP) |
+| **HelloWorld** | 2025.04.29 ~ | [엡] 외국인 노동자를 위한 지원센터 | [kotlin 기반 외국인 노동자의 AI Contact Center 🤖](https://github.com/HelloWorld-AICC/HelloWorld-Android) |
+| **오늘의 한문장** | 2025.01.21 ~ 2025.04.26 | [앱] 책 명언 기록 및 공유 | [react-native 기반 책 명언을 기록하며 소통하는 감성 플랫폼 📙](https://github.com/SuKyeong2002/today-sentence-front) |
+| **Prolink** | 2024.11.11 ~ 2024.11.23 | [웹] 프로젝트와 팀원 관리 | [ts 기반 효율적인 업무 분담을 지원하는 올인원 플랫폼 🔗](https://github.com/2024GanzithonPYTHON/14_Ganzi_Frontend) |
+| **Mood Friend** | 2024.05.09 ~ 2024.09.27 | [웹앱] AI 감정 챗봇 | [ts 기반 내 손 안의 작은 친구, Mood Friend 🐾](https://github.com/LikeLion-12th-SKHU/LikeLion-12th-TEAM02-FE) |
 | **ZombiLand3D** | 2024.03.04 ~ 2024.06.18 |  [웹] 3D 좀비 슈팅 게임 | [C# 기반 Unity 엔진 게임 🧟](https://github.com/SuKyeong2002/ZombiLand3D) |
 
 </details>
