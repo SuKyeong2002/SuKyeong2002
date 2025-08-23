@@ -5,7 +5,7 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
-  permissions:
+permissions:
   contents: write
 
 jobs:
@@ -18,10 +18,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
       - name: Commit & Push
         run: |
           git config user.name "SuKyeong2002"
           git config user.email "osukyeong0109@gmail.com"
           git add -A .
-          git commit -m "generated"
+          git commit -m "generated" || echo "No changes to commit"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push
