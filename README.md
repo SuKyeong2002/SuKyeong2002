@@ -39,7 +39,7 @@
 | **CCDB** | 2025.09.29 ~ 2025.11.26 | [웹] 장애 예방과 AI 분석을 한 번에! | [Oracle, Java, React 기반 모니터링 👀](https://github.com/SYS-2nit/CCDB-Frontend) |
 | **OnePlane** | 2025.08.28 ~ 2025.09.16 | [웹] 안전한 출국을 위한 여행 포털 | [Java, Jsp 기반 여행 위험도 관리/시각화 및 AI 국가 추천 ✈️ ](https://github.com/one-mix/one-plane) |
 | **내일뭐입지** | 2025.07.14 ~ 2025.07.25 | [데스크탑 애플리케이션] 옷장 관리 및 AI 코디 추천 | [Java, JavaFx 기반 디지털 옷장 및 코디 관리 👕 ](https://github.com/sam-yuk-gu/what2wear) |
-| **HelloWorld** | 2025.04.29 ~ | [엡] 외국인 노동자를 위한 지원센터 | [Kotlin 기반 외국인 노동자의 AI Contact Center 🤖](https://github.com/HelloWorld-AICC/HelloWorld-Android) |
+| **HelloWorld** | 2025.04.29 ~ 2025.10.28 | [엡] 외국인 노동자를 위한 지원센터 | [Kotlin 기반 외국인 노동자의 AI Contact Center 🤖](https://github.com/HelloWorld-AICC/HelloWorld-Android) |
 | **오늘의 한문장** | 2025.01.21 ~ 2025.04.26 | [앱] 책 명언 기록 및 공유 | [react-native 기반 책 명언을 기록하며 소통하는 감성 플랫폼 📙](https://github.com/SuKyeong2002/today-sentence-front) |
 | **Mood Friend** | 2024.05.09 ~ 2024.09.27 | [웹앱] AI 감정 챗봇 | [js, css 기반 내 손 안의 작은 친구 🐾](https://github.com/LikeLion-12th-SKHU/LikeLion-12th-TEAM02-FE) |
 | **ZombiLand3D** | 2024.03.04 ~ 2024.06.18 |  [웹] 3D 좀비 슈팅 게임 | [C# 기반 Unity 엔진 게임 🧟](https://github.com/SuKyeong2002/ZombiLand3D) |
