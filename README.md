@@ -2,15 +2,10 @@
 	
 ## 📚 Stacks  
 
-<h3>Main</h3>
-
 <!-- 디자인 & 언어 & 프론트엔드 프레임워크 -->
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,html,css,javascript,typescript,react,reactnative&titles=true" />
 </p>
-
-
-<h3>Learning</h3>
 
 <!-- 백엔드 언어 & 프레임워크 -->
 <p align="center">
